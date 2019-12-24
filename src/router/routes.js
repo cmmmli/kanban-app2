@@ -1,6 +1,6 @@
-import KbnBoardView from '@/components/templetes/KbnBoardView.vue'
-import KbnLoginView from '@/components/templetes/KbnLoginView.vue'
-import KbnTaskDetailModal from '@/components/templetes/KbnTaskDetailModal.vue'
+import KbnBoardView from '@/components/templates/KbnBoardView.vue'
+import KbnLoginView from '@/components/templates/KbnLoginView.vue'
+import KbnTaskDetailModal from '@/components/templates/KbnTaskDetailModal.vue'
 
 export default [{
   path: '/',
