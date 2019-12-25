@@ -137,7 +137,7 @@ describe('KbnLoginForm', () => {
       })
     })
 
-    describe('onlogin', () => {
+    describe.skip('onlogin', () => {
       let loginForm
       let onloginStub
       beforeEach(done => {
